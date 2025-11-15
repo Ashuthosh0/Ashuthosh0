@@ -2,8 +2,6 @@
 <h1 align="center">Hi , I'm Ashuthosh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuthosh0&label=Profile%20views&color=0e75b6&style=flat" alt="ashuthosh0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuthosh0" alt="ashuthosh0" /></a> </p>
-
 - 📫 How to reach me **pvgar09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
